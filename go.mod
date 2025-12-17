@@ -1,4 +1,4 @@
-module github.com/stefanicjuraj/todo-md
+module github.com/stefanicjuraj/todo.md
 
 go 1.21
 
