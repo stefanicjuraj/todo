@@ -16,6 +16,7 @@ var rootCmd = &cobra.Command{
 		fmt.Println("→ todo done <id>  ")
 		fmt.Println("→ todo undone <id>")
 		fmt.Println("→ todo remove <id>")
+		fmt.Println("→ todo export")
 	},
 }
 
