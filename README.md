@@ -46,12 +46,12 @@ sudo cp bin/todo /usr/local/bin/
 ## Usage
 
 ```
-→ todo add <description> - add a new todo item
-→ todo list - list all todos with statistics
-→ todo done <id> - mark a todo as done
-→ todo undone <id> - mark a todo as not done
-→ todo remove <id> - remove a todo (with confirmation)
-→ todo export - export todos to todo.md file
+todo add <description> → add a new todo item
+todo list → list all todos with statistics
+todo done <id> → mark a todo as done
+todo undone <id> → mark a todo as not done
+todo remove <id> → remove a todo (with confirmation)
+todo export → export todos to todo.md file
 ```
 
 ## Storage
