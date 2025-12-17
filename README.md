@@ -56,4 +56,4 @@ todo export → export todos to todo.md file
 
 ## Storage
 
-Todos are stored in `~/.todo.json` in JSON format. The file is automatically created when you add your first todo.
+Todos are stored in `~/.todo.json` in JSON format. The file is automatically created when you add your first todo. When exporting to Markdown (`todo export`), the file is saved as `todo.md`.
